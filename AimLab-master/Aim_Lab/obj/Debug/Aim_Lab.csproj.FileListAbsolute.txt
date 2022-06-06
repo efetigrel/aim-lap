@@ -1,0 +1,43 @@
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\bin\Debug\Aim_Lab.exe.config
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\bin\Debug\Aim_Lab.exe
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\bin\Debug\Aim_Lab.pdb
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.csproj.AssemblyReference.cache
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.KolaySeviye.resources
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.Menu.resources
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.OrtaSeviye.resources
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.Properties.Resources.resources
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.SerbestMod.resources
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.ZorSeviye.resources
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.csproj.GenerateResource.cache
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.exe
+C:\Users\Z3NG1N\Desktop\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.pdb
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\bin\Debug\Aim_Lab.exe.config
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\bin\Debug\Aim_Lab.exe
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\bin\Debug\Aim_Lab.pdb
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.csproj.AssemblyReference.cache
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.KolaySeviye.resources
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.Menu.resources
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.OrtaSeviye.resources
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.Properties.Resources.resources
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.SerbestMod.resources
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.ZorSeviye.resources
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.csproj.GenerateResource.cache
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.csproj.CoreCompileInputs.cache
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.exe
+C:\Users\Z3NG1N\Desktop\Karışık\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.pdb
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\bin\Debug\Aim_Lab.exe.config
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\bin\Debug\Aim_Lab.exe
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\bin\Debug\Aim_Lab.pdb
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.csproj.AssemblyReference.cache
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.KolaySeviye.resources
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.Menu.resources
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.OrtaSeviye.resources
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.Properties.Resources.resources
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.SerbestMod.resources
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.ZorSeviye.resources
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.csproj.GenerateResource.cache
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.csproj.CoreCompileInputs.cache
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.exe
+C:\Users\CylnCer\Desktop\HERŞEY\Gökbörü Efe Tığrel Oyun\AimLab-master\Aim_Lab\obj\Debug\Aim_Lab.pdb
